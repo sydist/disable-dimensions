@@ -1,0 +1,14 @@
+{
+  "dimensions": {
+    "minecraft:overworld": {
+      "type": "minecraft:the_void",
+      "generator": {
+        "type": "flat",
+        "settings": {
+          "layers": [],
+          "structure_overrides": []
+        }
+      }
+    }
+  }
+}
