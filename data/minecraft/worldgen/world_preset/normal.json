@@ -5,6 +5,7 @@
       "generator": {
         "type": "flat",
         "settings": {
+          "biome": "the_void",
           "layers": [],
           "structure_overrides": []
         }
